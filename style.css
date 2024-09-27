@@ -61,7 +61,7 @@ body {
 /* media Query */
 
 /* laptop */
-@media (max-width: 992) {
+@media (max-width: 992px) {
     html {
         font-size: 75%;
     }
@@ -73,7 +73,7 @@ body {
 }
 
 /* tablet */
-@media (max-width: 768) {
+@media (max-width: 768px) {
     html {
         font-size: 65%;
     }
@@ -85,7 +85,7 @@ body {
 
 
 /* phone */
-@media (max-width: 576) {
+@media (max-width: 576px) {
     html {
         font-size: 60%;
     }
