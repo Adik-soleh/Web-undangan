@@ -59,13 +59,10 @@ body {
 }
 
 .mynavbar {
-    background-color: rgba(216, 216, 216, 0.5) !important;
-    backdrop-filter: blur(3px);
+    background-color: rgba(216, 216, 216, 0.3) !important;
+    /* backdrop-filter: blur(); */
 }
 
-.mynavbar .offcanvas {
-    height: 100vh;
-}
 
 .mynavbar .navbar-brand,
 .mynavbar .offcanvas-title {
